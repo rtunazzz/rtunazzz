@@ -2,9 +2,7 @@
 <p align="center">My full name is Artur Hnat but most know me by my nickname - <b>rtuna</b><p>
 <h3 align="center">🎨 I am a student developer & a content creator 👟</h3>
 
-<br>
-
-- 🔭 I’m working on different kinds of small (usually sneaker related) projects
+- 🔭 I’m working on different kinds of small (usually sneaker related) projects, usually in either JS or Python.
 - 🌱 I’m currently learning JavaScript (Node in particular) & Go
 - ⚡ Fun fact: It took me a year to get my [Instagram page](https://www.instagram.com/worth_the_cop/) for 0 to 100k followers!
 
