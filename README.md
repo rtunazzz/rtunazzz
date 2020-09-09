@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently working on different kinds of small (usually sneaker related) projects
+- 🔭 I’m working on different kinds of small (usually sneaker related) projects
 - 🌱 I’m currently learning JavaScript (Node in particular) & Go
 - ⚡ Fun fact: It took me a year to get my [Instagram page](https://www.instagram.com/worth_the_cop/) for 0 to 100k followers!
 
