@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, welcome! 👋 </h1>
 <p align="center">My full name is Artur Hnat but most know me by my nickname - <b>rtuna</b><p>
-<h3 align="center">🎨 student developer & content creator 👟</h3>
+<h3 align="center">🎨 I am a student developer & a content creator 👟</h3>
 
 <br>
 
