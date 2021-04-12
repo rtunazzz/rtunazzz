@@ -1,16 +1,16 @@
 <h1 align="center"> Hello, welcome! 👋 </h1>
 <p align="center">My full name is Artur Hnat but most know me by my nickname - <b>rtuna</b><p>
-<h3 align="center">🎨 I am a student developer & a content creator 👟</h3>
+<h3 align="center">🎨 I am a student developer and a content creator 👟</h3>
 
-- 🔭 I’m working on different kinds of small (usually sneaker related) projects, usually in either JS or Python.
-- 🌱 I’m currently learning JavaScript (Node in particular) & Go
+- 🔭 I’m working on different kinds of small (usually sneaker related) projects, usually in either Node, Go or Python.
+- 🌱 I’m currently learning React & Go!
 
 <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/rtuna%234321-17213A?style=flat&logo=discord&logoColor=white" alt="Discord">
   <br>
-<a href="https://twitter.com/rtunazzz" target="_blank"><img src="https://img.shields.io/badge/@rtunazzz-%230077B5.svg?&style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rtunazzz" alt="Twitter"></a>
+<a href="https://twitter.com/worth_the_cop" target="_blank"><img src="https://img.shields.io/badge/@worth_the_cop-%230077B5.svg?&style=flat&logo=twitter&logoColor=white&link=https://twitter.com/worth_the_cop" alt="Twitter"></a>
   <br>
 <a href="mailto:rtunaboss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-rtunaboss@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rtunaboss@gmail.com" alt="Gmail"></a>
 </p>
