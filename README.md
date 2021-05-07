@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/rtuna%234321-17213A?style=flat&logo=discord&logoColor=white" alt="Discord">
   <br>
-<a href="https://twitter.com/worth_the_cop" target="_blank"><img src="https://img.shields.io/badge/@worth_the_cop-%230077B5.svg?&style=flat&logo=twitter&logoColor=white&link=https://twitter.com/worth_the_cop" alt="Twitter"></a>
+<a href="https://twitter.com/rtunazzz" target="_blank"><img src="https://img.shields.io/badge/@rtunazzz-%230077B5.svg?&style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rtunazzz" alt="Twitter"></a>
   <br>
 <a href="mailto:rtunaboss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-rtunaboss@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rtunaboss@gmail.com" alt="Gmail"></a>
 </p>
