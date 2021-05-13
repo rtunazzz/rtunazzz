@@ -17,10 +17,6 @@
 
 <br>
 
-## GitHub Stats
-<p align="center"><img width=60% src="https://github-readme-stats.vercel.app/api?username=rtunazzz&&show_icons=true&title_color=ffb9b0&icon_color=ffb9b0&text_color=ffffff&bg_color=17213A"></p>
-
-
 <!--
 Here are some ideas to get you started:
 
