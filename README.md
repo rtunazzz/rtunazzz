@@ -1,31 +1,19 @@
-<h1 align="center"> Hello, welcome! 👋 </h1>
+<h1 align="center"> Hi! Welcome to my GitHub. </h1>
 <p align="center">My full name is Artur Hnat but most know me by my nickname - <b>rtuna</b><p>
-<h3 align="center">🎨 I am a student developer and a content creator 👟</h3>
-
-- 🔭 I’m working on different kinds of small (usually sneaker related) projects, usually in either Node, Go or Python.
-- 🌱 I’m currently learning React & Go!
-
+<p align="center">I am software developer, currently working for <a href="https://twitter.com/ahiddensociety">Hidden Society</a> & <a href="https://twitter.com/bonzayio">BONZAY</a>. You might also know me as <a href="https://www.instagram.com/worth_the_cop/">Worth the Cop</a>!<p>
+<p align="center">For any inquiries, please feel free to reach out via any of the links below.<p>
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/rtuna%234321-17213A?style=flat&logo=discord&logoColor=white" alt="Discord">
-  <br>
-<a href="https://twitter.com/rtunazzz" target="_blank"><img src="https://img.shields.io/badge/@rtunazzz-%230077B5.svg?&style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rtunazzz" alt="Twitter"></a>
-  <br>
-<a href="mailto:rtunaboss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-rtunaboss@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rtunaboss@gmail.com" alt="Gmail"></a>
+  <a><img src="https://img.shields.io/badge/rtuna%234321-17213A?style=flat&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/rtunazzz" target="_blank"><img src="https://img.shields.io/badge/@rtunazzz-%230077B5.svg?&style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rtunazzz" alt="Twitter"></a>&nbsp;&nbsp;
+  <a href="mailto:rtunaboss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-rtunaboss@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rtunaboss@gmail.com" alt="Gmail"></a>
 </p>
-
 <br>
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+<p align="center">
+  <a href="https://www.instagram.com/worth_the_cop/"><img width=50 src="https://i.imgur.com/1mgwJEv.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/ahiddensociety"><img width=50 src="https://i.imgur.com/0wvivgg.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/bonzayio"><img width=50 src="https://i.imgur.com/mrIOGzN.png"></a>
+</p>
