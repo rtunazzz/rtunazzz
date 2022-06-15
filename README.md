@@ -1,12 +1,10 @@
 <h1 align="center"> Hi! Welcome to my GitHub. </h1>
 <p align="center">My full name is Artur Hnat but most know me by my nickname - <b>rtuna</b><p>
-<p align="center">I am software developer, currently working on <a href="https://twitter.com/Metasniper_app">MetaSniper</a>, <a href="https://twitter.com/ahiddensociety">Hidden Society</a> & <a href="https://twitter.com/bonzayio">BONZAY</a>, as well as learning Golang & exploring Web3 on the side. You might also know me as <a href="https://www.instagram.com/worth_the_cop/">Worth the Cop</a>.<p>
+<p align="center">I am software developer, currently working with <a href="https://twitter.com/Metasniper_app">MetaSniper</a> and <a href="https://twitter.com/ahiddensociety">Hidden Society</a><p>
 <br>
 <p align="center">
   <a href="https://twitter.com/Metasniper_app"><img width=50 src="https://i.imgur.com/KzWxKw0.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/ahiddensociety"><img width=50 src="https://i.imgur.com/0wvivgg.png"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/worth_the_cop/"><img width=50 src="https://i.imgur.com/1mgwJEv.png"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/bonzayio"><img width=50 src="https://i.imgur.com/mrIOGzN.png"></a>
 </p>
 <br>
 
