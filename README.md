@@ -10,7 +10,7 @@
 
 <p align="center">
 Want to get in touch?
-  <a target="_blank" href="href="mailto: hello@artur.hnat.me"">email me</a> or message me on <a target="_blank" href="https://twitter.com/messages/compose?recipient_id=1227556666406789120">twitter</a>
+  <a target="_blank" href="mailto: hello@artur.hnat.me">email me</a> or message me on <a target="_blank" href="https://twitter.com/messages/compose?recipient_id=1227556666406789120">twitter</a>
 <p>
 <br>
 
