@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! Welcome to my Github! </h1>
 <p align="center">My full name is Artur Hnat but most know me by my nickname - <b>rtuna</b><p>
-<p align="center">I am backend engineer, currently working at MasterCard. I'm also building <a href="https://twitter.com/Metasniper_app">MetaSniper</a><p>
+<p align="center">I am backend engineer with a normie tech job, building <a href="https://twitter.com/Metasniper_app">MetaSniper</a>.<p>
 <br>
 <p align="center">
   <a href="https://twitter.com/Metasniper_app"><img width=50 src="https://i.imgur.com/KzWxKw0.png"></a>&nbsp;&nbsp;
