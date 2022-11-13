@@ -14,5 +14,5 @@ Want to get in touch?
 
 &nbsp;&nbsp;
 <p align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api?username=rtunazzz&show_icons=true&theme=transparent&count_private=true&hide=contribs,prs,issues&title_color=ffada2" alt="My github stats"></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=rtunazzz&show_icons=true&theme=transparent&&hide_border=truecount_private=true&hide=contribs,prs,issues&title_color=ffada2" alt="My github stats"></a>
 </p>
