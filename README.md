@@ -1,7 +1,6 @@
 <h1 align="center"> Hi! Welcome to my Github! </h1>
 <p align="center">
-My full name is Artur Hnat but most know me by my nickname - <b>rtuna</b>. I am backend engineer with a normie tech job, also building <a href="https://twitter.com/Metasniper_app">MetaSniper</a>.
-<p>
+My name is Artur and I am backend engineer by day, web3 enthusiast by night.
 <br>
 
 <p align="center">
