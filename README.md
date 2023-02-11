@@ -9,9 +9,11 @@ Want to get in touch?
 <p>
 <br>
 
-***
 
-&nbsp;&nbsp;
 <p align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api?username=rtunazzz&show_icons=true&theme=transparent&&hide_border=truecount_private=true&hide=contribs,prs,issues&title_color=ffada2" alt="My github stats"></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=rtunazzz&show_icons=true&theme=transparent&count_private=true&hide=contribs,prs,issues&title_color=ffada2" alt="My github stats"></a>
+</p>
+
+<p align="center">
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=rtunazzz&date_format=M%20j%5B%2C%20Y%5D&theme=transparent&ring=ffada2&fire=ffada2" alt="My github stats"></a>
 </p>
