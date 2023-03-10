@@ -15,5 +15,5 @@ Want to get in touch?
 </p>
 
 <p align="center">
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=rtunazzz&date_format=M%20j%5B%2C%20Y%5D&theme=transparent&ring=ffada2&fire=ffada2" alt="My github stats"></a>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=rtunazzz&date_format=M%20j%5B%2C%20Y%5D&theme=transparent&ring=ffada2&fire=ffada2&sideNums=46727C&sideLabels=46727C" alt="My github stats"></a>
 </p>
