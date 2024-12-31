@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! Welcome to my Github! </h1>
 <p align="center">
-My name is Artur and I am backend engineer by day, web3 enthusiast by night.
+backend.
 <br>
 
 <p align="center">
